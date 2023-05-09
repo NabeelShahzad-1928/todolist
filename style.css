@@ -1,0 +1,39 @@
+body{
+    background-image:url(./download.jpg) ;
+    box-sizing: border-box;
+    width: 100vw;
+    height: 100vw;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#name{
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 220px;
+    height: 30px;
+    background-color: rgb(158, 173, 175);
+    color: aliceblue;
+}
+#btn{
+    border: 1px solid black;
+    border-radius: 40px;
+    font-size: 30px;
+    color: tomato;
+
+}
+.container{
+    margin-top: 210px;
+    margin-left:480px;
+}
+.task{
+    font-size: 30px;
+}
+.h1{
+    color: rgb(103, 36, 96);
+    width: 120px;
+}
+.ul{
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 240px;
+}
